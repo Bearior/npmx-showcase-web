@@ -20,6 +20,6 @@
   <!-- Heart/care symbol -->
   <path d="M400,140 C400,110 440,100 440,130 C440,100 480,110 480,140 C480,170 440,190 440,190 C440,190 400,170 400,140Z" fill="#f43f5e" opacity="0.6"/>
   <!-- Text -->
-  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#155e75">คลินิกกายภาพบำบัด PhysioPlus</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#155e75">คลินิกกายภาพบำบัด NPMx</text>
   <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#64748b">Physical Therapy &amp; Rehabilitation</text>
 </svg>
