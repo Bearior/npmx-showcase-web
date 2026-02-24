@@ -1,0 +1,25 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ecfeff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d1fae5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)" rx="24"/>
+  <!-- Physical therapist figure -->
+  <circle cx="320" cy="200" r="45" fill="#0891b2" opacity="0.9"/>
+  <rect x="295" y="250" width="50" height="80" rx="10" fill="#0891b2" opacity="0.8"/>
+  <rect x="260" y="260" width="120" height="8" rx="4" fill="#0891b2" opacity="0.6"/>
+  <!-- Patient figure -->
+  <circle cx="500" cy="220" r="40" fill="#059669" opacity="0.8"/>
+  <rect x="478" y="265" width="44" height="70" rx="10" fill="#059669" opacity="0.7"/>
+  <!-- Therapy table -->
+  <rect x="420" y="340" width="200" height="16" rx="8" fill="#94a3b8"/>
+  <rect x="440" y="356" width="12" height="60" rx="4" fill="#64748b"/>
+  <rect x="588" y="356" width="12" height="60" rx="4" fill="#64748b"/>
+  <!-- Heart/care symbol -->
+  <path d="M400,140 C400,110 440,100 440,130 C440,100 480,110 480,140 C480,170 440,190 440,190 C440,190 400,170 400,140Z" fill="#f43f5e" opacity="0.6"/>
+  <!-- Text -->
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#155e75">คลินิกกายภาพบำบัด PhysioPlus</text>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#64748b">Physical Therapy &amp; Rehabilitation</text>
+</svg>

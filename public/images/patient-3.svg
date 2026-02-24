@@ -1,0 +1,20 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgp3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e0e7ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c7d2fe;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bgp3)" rx="24"/>
+  <!-- Male patient - sporty -->
+  <circle cx="200" cy="150" r="44" fill="#4338ca"/>
+  <rect x="175" y="200" width="50" height="75" rx="10" fill="#6366f1"/>
+  <!-- Running pose arm -->
+  <rect x="230" y="210" width="40" height="8" rx="4" fill="#6366f1" transform="rotate(-30 230 210)"/>
+  <!-- Smile -->
+  <path d="M183,158 Q200,178 217,158" stroke="white" stroke-width="3" fill="none"/>
+  <!-- Star rating -->
+  <text x="200" y="320" text-anchor="middle" font-size="24">⭐⭐⭐⭐⭐</text>
+  <text x="200" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3730a3">คุณวิทยา ส.</text>
+  <text x="200" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4338ca">นักกีฬาฟื้นฟูหลังผ่าตัด</text>
+</svg>
